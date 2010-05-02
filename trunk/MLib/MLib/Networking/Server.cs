@@ -171,11 +171,10 @@ namespace MLib.Networking
                 {
                     StopClient(cl);
                 }
-
-                
-
             }
         }
+
+        //Test comment
 
         /// <summary>
         /// Sends data to a client
