@@ -171,9 +171,6 @@ namespace MLib.Networking
                 {
                     StopClient(cl);
                 }
-
-                
-
             }
         }
 
