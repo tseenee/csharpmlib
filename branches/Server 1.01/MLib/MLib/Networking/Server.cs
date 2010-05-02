@@ -15,6 +15,7 @@ namespace MLib.Networking
     {
         #region Events
 
+        #region Event classes
         public class MessageArrivedArgs : EventArgs
         {
             private string message;
@@ -86,7 +87,7 @@ namespace MLib.Networking
                 
             }
         }
-
+        #endregion
 
         public delegate void MessageArrivedHandler(object myObject, MessageArrivedArgs myArgs);
         public delegate void ConnectionClosedHandler(object myObject, ConnectionClosedArgs myArgs);
