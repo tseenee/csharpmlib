@@ -26,6 +26,7 @@ namespace MLib.Imaging
 
         void Ujemanje(Objekt o1)
         {
+            //Recursively groups all the objects and neighbour objects
             for (int i = 0; i < Objekti.Count; i++)
             {
                 try
