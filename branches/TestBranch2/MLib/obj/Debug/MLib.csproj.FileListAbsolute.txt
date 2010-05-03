@@ -1,0 +1,10 @@
+D:\C# Win 7\MLib\MLib\bin\Debug\MLib.dll
+D:\C# Win 7\MLib\MLib\bin\Debug\MLib.pdb
+D:\C# Win 7\MLib\MLib\obj\Debug\ResolveAssemblyReference.cache
+D:\C# Win 7\MLib\MLib\obj\Debug\MLib.dll
+D:\C# Win 7\MLib\MLib\obj\Debug\MLib.pdb
+D:\C#\C# Win 7\MLib\MLib\bin\Debug\MLib.dll
+D:\C#\C# Win 7\MLib\MLib\bin\Debug\MLib.pdb
+D:\C#\C# Win 7\MLib\MLib\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\C# Win 7\MLib\MLib\obj\Debug\MLib.dll
+D:\C#\C# Win 7\MLib\MLib\obj\Debug\MLib.pdb

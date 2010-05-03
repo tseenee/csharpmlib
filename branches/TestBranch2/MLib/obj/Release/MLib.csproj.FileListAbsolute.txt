@@ -1,0 +1,20 @@
+C:\Documents and Settings\Dejan Pelzel\Local Settings\Application Data\Temporary Projects\MLib\bin\Release\MLib.dll
+C:\Documents and Settings\Dejan Pelzel\Local Settings\Application Data\Temporary Projects\MLib\bin\Release\MLib.pdb
+C:\Documents and Settings\Dejan Pelzel\Local Settings\Application Data\Temporary Projects\MLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Dejan Pelzel\Local Settings\Application Data\Temporary Projects\MLib\obj\Release\MLib.dll
+C:\Documents and Settings\Dejan Pelzel\Local Settings\Application Data\Temporary Projects\MLib\obj\Release\MLib.pdb
+D:\C# Win 7\MLib\MLib\obj\Release\ResolveAssemblyReference.cache
+D:\C# Win 7\MLib\MLib\obj\Release\MLib.dll
+D:\C# Win 7\MLib\MLib\obj\Release\MLib.pdb
+D:\C# Win 7\MLib\MLib\bin\Release\MLib.dll
+D:\C# Win 7\MLib\MLib\bin\Release\MLib.pdb
+E:\C#\C# Win 7\MLib\MLib\bin\Release\MLib.dll
+E:\C#\C# Win 7\MLib\MLib\bin\Release\MLib.pdb
+E:\C#\C# Win 7\MLib\MLib\obj\Release\ResolveAssemblyReference.cache
+E:\C#\C# Win 7\MLib\MLib\obj\Release\MLib.dll
+E:\C#\C# Win 7\MLib\MLib\obj\Release\MLib.pdb
+D:\C#\C# Win 7\MLib\MLib\bin\Release\MLib.dll
+D:\C#\C# Win 7\MLib\MLib\bin\Release\MLib.pdb
+D:\C#\C# Win 7\MLib\MLib\obj\Release\ResolveAssemblyReference.cache
+D:\C#\C# Win 7\MLib\MLib\obj\Release\MLib.dll
+D:\C#\C# Win 7\MLib\MLib\obj\Release\MLib.pdb
