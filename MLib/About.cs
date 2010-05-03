@@ -9,7 +9,7 @@ namespace MLib
         private const string dev = "Dejan Pelzel";
         private const string com = "M-Dev";
         private const string ver = "MLib - 1.0.0";
-        private const string copy = "Nothing yet";
+        private const string copy = "Lesser General Public License";
 
         /// <summary>
         /// Contains information about the developer of MLib
