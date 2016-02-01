@@ -1,0 +1,19 @@
+C# library with all kind of features:
+- Compression
+- Encryption
+- CPU, RAM
+- Files
+- Desktop
+- Motion Detection
+- Image manipulation
+- WebCam
+- Mouse simulation
+- Keyboard simulation
+- Input hook
+- Wav Player
+- VLC Player
+- Gmail
+- FTP
+- Email
+- Simple Server/Client
+- Windows functions
